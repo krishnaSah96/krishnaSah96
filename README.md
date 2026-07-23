@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./banner.png" alt="Krishna Sah Banner" width="100%" />
+</p>
+
+<br>
 # Hi 👋 I'm Krishna
 
 ### 💻 BE CSE Student
