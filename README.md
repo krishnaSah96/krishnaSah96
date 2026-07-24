@@ -13,7 +13,7 @@
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=krishnaSah96&theme=default)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KrishnaSah96&theme=tokyonight)](https://git.io/streak-stats)
 ---
 
 ## 👨‍💻 About Me
