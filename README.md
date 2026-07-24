@@ -15,7 +15,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=KrishnaSah96&theme=tokyonight)](https://git.io/streak-stats)
 ---
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=KrishnaSah96&theme=tokyonight&cache_seconds=1)](https://git.io/streak-stats)
 ## 👨‍💻 About Me
 
 - 🎓 BE in Computer Science and Engineering
