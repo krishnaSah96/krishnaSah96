@@ -59,11 +59,11 @@ BE Computer Science & Engineering Student • Java Developer • Web Developer
 
 > *(Add this section after setting up the snake workflow.)*
 
-```html
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/KrishnaSah96/KrishnaSah96/output/github-contribution-grid-snake-dark.svg"/>
 </p>
-```
+
 
 ---
 
