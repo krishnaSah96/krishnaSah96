@@ -9,6 +9,12 @@
 
 🌱 Currently learning Java, HTML, CSS and JavaScript.
 
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,html,css,js,react,nodejs,express,mongodb,git,github,vscode&perline=7" />
+</p>
+
 ---
 
 ## 🔥 GitHub Streak
