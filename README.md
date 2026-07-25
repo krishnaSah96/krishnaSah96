@@ -2,49 +2,96 @@
   <img src="./banner.png" alt="Krishna Sah Banner" width="100%" />
 </p>
 
-<br>
-# Hi 👋 I'm Krishna
+<h1 align="center">Hi 👋 I'm Krishna Sah</h1>
 
-### 💻 BE CSE Student
-
-🌱 Currently learning Java, HTML, CSS and JavaScript.
-
-## 💻 Tech Stack
+<h3 align="center">
+BE Computer Science & Engineering Student • Java Developer • Web Developer
+</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,html,css,js,react,nodejs,express,mongodb,git,github,vscode&perline=7" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+Developer;Building+Real-World+Projects;Learning+Full+Stack+Development;Open+Source+Enthusiast" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KrishnaSah96&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🚀 About Me
+
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+- 🎓 BE in Computer Science & Engineering
+- 💻 Passionate about Java & Web Development
+- 🚀 Building projects to improve problem-solving skills
+- 🌱 Currently exploring React, Node.js & Backend Development
+
+<br>
+
 ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=KrishnaSah96&theme=tokyonight&cache_seconds=1)](https://git.io/streak-stats)
-## 👨‍💻 About Me
 
-- 🎓 BE in Computer Science and Engineering
-- 🌱 Currently learning Java, HTML, CSS and JavaScript
-- 🚀 Building projects to improve my development skills
+## ⚡ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,react,nodejs,express,mongodb,git,github,vscode,idea&theme=dark&perline=7"/>
+</p>
 
 ---
 
-## 🛠️ Languages and Tools
+## 📊 GitHub Analytics
 
-- Java
-- HTML5
-- CSS3
-- JavaScript
-- Git
-- GitHub
-- VS Code
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KrishnaSah96&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaSah96&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+<img width="700" src="https://streak-stats.demolab.com?user=KrishnaSah96&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+> *(Add this section after setting up the snake workflow.)*
+
+```html
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KrishnaSah96/KrishnaSah96/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+```
 
 ---
 
 ## 📂 Featured Projects
 
-- 📚 Library Management System
-- ✅ To-Do App
-- 🧮 Calculator
-- 🔐 Login Form UI
+| Project | Description |
+|---------|-------------|
+| 📚 Library Management System | Java console application using OOP concepts |
+| 🎮 Rock Paper Scissors | Interactive JavaScript browser game |
+| 🧮 Calculator | Responsive calculator built with HTML, CSS & JavaScript |
+| ✅ To-Do App | Simple task management application |
 
 ---
+
+## 🌐 Connect
+
+<p align="center">
+
+<a href="https://github.com/KrishnaSah96">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
