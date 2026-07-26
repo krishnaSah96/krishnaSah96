@@ -17,8 +17,7 @@ BE Computer Science & Engineering Student • Java Developer • Web Developer
 </p>
 
 ---
-
-## 🚀 About Me
+🚀 About Me
 
 <img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
@@ -30,8 +29,7 @@ BE Computer Science & Engineering Student • Java Developer • Web Developer
 <br>
 
 ---
-
-## ⚡ Tech Stack
+⚡ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,react,nodejs,express,mongodb,git,github,vscode,idea&theme=dark&perline=7"/>
@@ -39,26 +37,13 @@ BE Computer Science & Engineering Student • Java Developer • Web Developer
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KrishnaSah96&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaSah96&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+📊 GitHub Analytics
 
 <p align="center">
 <img width="700" src="https://streak-stats.demolab.com?user=KrishnaSah96&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
-
-## 🐍 Contribution Snake
-
-> *(Add this section after setting up the snake workflow.)*
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/KrishnaSah96/KrishnaSah96/output/github-contribution-grid-snake-dark.svg"/>
@@ -67,7 +52,7 @@ BE Computer Science & Engineering Student • Java Developer • Web Developer
 
 ---
 
-## 📂 Featured Projects
+📂 Featured Projects
 
 | Project | Description |
 |---------|-------------|
@@ -78,7 +63,7 @@ BE Computer Science & Engineering Student • Java Developer • Web Developer
 
 ---
 
-## 🌐 Connect
+🌐 Connect
 
 <p align="center">
 
