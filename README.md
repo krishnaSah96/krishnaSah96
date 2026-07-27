@@ -55,6 +55,7 @@ BE Computer Science & Engineering Student • Java Developer • Web Developer
 📂 Featured Projects
 
 | Project | Description |
+
 |---------|-------------|
 | 📚 Library Management System | Java console application using OOP concepts |
 | 🎮 Rock Paper Scissors | Interactive JavaScript browser game |
