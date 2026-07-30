@@ -40,13 +40,12 @@ BE Computer Science & Engineering Student • Java Developer • Web Developer
 📊 GitHub Analytics
 
 <p align="center">
-<img width="700" src="https://streak-stats.demolab.com?user=KrishnaSah96&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KrishnaSah96&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaSah96&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KrishnaSah96/KrishnaSah96/output/github-contribution-grid-snake-dark.svg"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KrishnaSah96&theme=tokyo-night&hide_border=true"/>
 </p>
 
 
