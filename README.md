@@ -36,21 +36,11 @@ BE Computer Science & Engineering Student • Java Developer • Web Developer
 </p>
 
 ---
-📊 GitHub Analytics
+🔥 GitHub Streak
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KrishnaSah96&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaSah96&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=KrishnaSah96&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KrishnaSah96&theme=github-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KrishnaSah96&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" />
-</p>
-
 ---
 
 📂 Featured Projects
