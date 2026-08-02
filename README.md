@@ -37,9 +37,8 @@ BE Computer Science & Engineering Student • Java Developer • Web Developer
 
 ---
 🔥 GitHub Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KrishnaSah96&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnaSah96&theme=github-dark&hide_border=true" />
 </p>
 ---
 
