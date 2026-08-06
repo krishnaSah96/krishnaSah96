@@ -35,12 +35,6 @@ BE Computer Science & Engineering Student • Java Developer • Web Developer
 <img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,react,nodejs,express,mongodb,git,github,vscode,idea&theme=dark&perline=7"/>
 </p>
 
----
-🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnaSah96&theme=github-dark&hide_border=true" />
-</p>
----
 
 📂 Featured Projects
 
