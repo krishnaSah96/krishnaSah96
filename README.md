@@ -47,7 +47,7 @@ BE Computer Science & Engineering Student • Java Developer • Web Developer
 | 🧮 Calculator | Responsive calculator built with HTML, CSS & JavaScript |
 | ✅ To-Do App | Simple task management application |
 
----
+--- 
 
 🌐 Connect
 
