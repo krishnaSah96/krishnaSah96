@@ -30,7 +30,7 @@ BE Computer Science & Engineering Student • Java Developer • Web Developer
 <br>
 
 ---
-⚡ Tech Stack
+⚡ Tech Stack  
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,react,nodejs,express,mongodb,git,github,vscode,idea&theme=dark&perline=7"/>
