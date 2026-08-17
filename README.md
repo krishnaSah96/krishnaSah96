@@ -31,6 +31,25 @@ BE Computer Science & Engineering Student • Java Developer • Web Developer
 
 <br>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=krishnaSah96&" height="200" />
+  <p align="center">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=krishnaSah96&langs_count=8&hide=html,css,ejs" height="320" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=krishnaSah96&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true" height="400" />
+  </p>
+</p>
+
+<!-- [![Krishna's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=krishnaSah96)](https://github.com/pranesh-2005/github-readme-stats-fast) -->
+
+<!-- 3D Contribution -->
+<!-- <table>
+  <tr>
+    <td>
+      <img width="794" src="https://github.com/krishnaSah96/krishnaSah96/blob/master/profile-night-rainbow.svg" align="center"/>
+    </td>
+  </tr>
+</table> -->
+
 ---
 ⚡ Tech Stack  
 
