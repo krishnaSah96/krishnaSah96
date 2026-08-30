@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./banner.png" alt="Krishna Sah Banner" width="100%" />
 </p>
-
+ 
  
 <h1 align="center">Hi I'm Krishna Sah</h1>   
 
